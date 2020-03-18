@@ -1,7 +1,7 @@
 # RegexApp
 Output results with different regex
 
-#Instructions
+## Instructions
 1. cd into RegexApp-api, `python app.py` to start server.
 2. Server will be start on http://localhost:5010/ **(Required MongoDB service in localhost)**
 3. cd into RegexApp-react and run `yarn install` to install the dependencies.
